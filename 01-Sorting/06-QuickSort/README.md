@@ -1,6 +1,6 @@
 <h1 align="center" style="text-align:center;line-height:10pt;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">How Quick Sort Works?</h1>
 
-To understand merge sort, we take an unsorted array as the following −
+To understand quick sort, we take an unsorted array as the following −
 
 <p align="center">
     <img src="/01-Sorting/img/quick_sort_1.png" alt="Step 01">

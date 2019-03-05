@@ -1,6 +1,6 @@
 <h1 align="center" style="text-align:center;line-height:10pt;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">How Radix Sort Works?</h1>
 
-To understand merge sort, we take an unsorted array as the following −
+To understand radix sort, we take an unsorted array as the following −
 
 <p align="center">
     <img src="/01-Sorting/img/radix_sort.png" alt="Step 01">
